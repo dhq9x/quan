@@ -1,0 +1,5 @@
+document.querySelector('.woocommerce-order-overview__total.total .woocommerce-Price-amount.amount').innerText.replace('₫','')
+
+document.querySelector('.woocommerce-order-overview.woocommerce-thankyou-order-details.order_details .woocommerce-order-overview__order.order strong').innerText
+
+document.querySelector('.wc-bacs-bank-details.order_details.bacs_details .account_number strong').innerText
